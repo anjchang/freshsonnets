@@ -18,3 +18,7 @@ Chorus\s\d\d?:\n
 Other than that, it was interesting learning to use the lyrics api, and also FODF to format a pdf.
 
 I wish that I could have done something like replacing interesting words from one to the other-- maybe next year!
+
+---
+More info:
+https://github.com/NaNoGenMo/2021/issues/86
