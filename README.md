@@ -19,9 +19,12 @@ Other than that, it was interesting learning to use the lyrics api, and also FOD
 
 I wish that I could have done something like replacing interesting words from one to the other-- maybe next year!
 
-Python Notebook: https://github.com/anjchang/freshsonnets/blob/main/FreshPrinceShakespeare2021.ipynb
+Python Notebook: 
+https://github.com/anjchang/freshsonnets/blob/main/FreshPrinceShakespeare2021.ipynb
 
-Example Finished Output: https://github.com/anjchang/freshsonnets/blob/main/freshsonnets.pdf
+Example Finished Output:
+https://github.com/anjchang/freshsonnets/blob/main/freshsonnets.pdf
+
 ---
-More info:
+Nanogenmo Submission:
 https://github.com/NaNoGenMo/2021/issues/86
